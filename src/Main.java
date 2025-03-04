@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Información de Diego:");
         diego.tellInfo();
         System.out.println("ID de Diego: " + diego.studentId);
+        System.out.println("ID de cristian: " + cristian.studentName);
 
         diego.repeatAfter("Pequeño demoniooo!!");
 
